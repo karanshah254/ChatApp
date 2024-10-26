@@ -8,7 +8,7 @@
 ### How to use ?
 1. Clone the repo
 ```
-git clone <url>
+git clone https://github.com/karanshah254/ChatApp.git
 ```
 
 2. Install react dependencies
